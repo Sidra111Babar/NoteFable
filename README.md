@@ -52,12 +52,14 @@ A powerful and intuitive Notes App built for productivity. Easily create, organi
 <p float="left">
  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/e49ef190-d860-4c7c-91e7-a4fd64406d03" />
 
-  <img width="300" height="436" alt="image" src="https://github.com/user-attachments/assets/feb9a61c-2eb0-48b3-a5f3-8586fdd3aa80" />
+  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/feb9a61c-2eb0-48b3-a5f3-8586fdd3aa80" />
 
-  <img width="300" height="446" alt="image" src="https://github.com/user-attachments/assets/e787d68d-daad-4a6a-b411-33c33c8aab5e" />
+  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/e787d68d-daad-4a6a-b411-33c33c8aab5e" />
 
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/61397d44-b2c0-4c26-8fcb-4c79da45499f" />
-  <img width="300" height="442" alt="image" src="https://github.com/user-attachments/assets/558a2db1-d902-4b69-bf6f-396ca44a62cf" />
+  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/61397d44-b2c0-4c26-8fcb-4c79da45499f" />
+  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/558a2db1-d902-4b69-bf6f-396ca44a62cf" />
+  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/0a342b09-d86e-4c49-aa32-826f88d21f1b" />
+  <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/294df722-df36-4ff3-9ddc-c3f00a1ea768" />
 
 
 </p>
@@ -72,3 +74,12 @@ A powerful and intuitive Notes App built for productivity. Easily create, organi
 cd frontend
 npm install
 npm run dev
+
+### 🔧 Backend
+
+make venv(virtual environment),activate it
+pip install requirements.txt
+cd BackendFolder
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
