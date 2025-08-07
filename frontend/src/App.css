@@ -1,0 +1,11 @@
+.clip-path-custom {
+    clip-path: polygon(0 0, 100% 0, 66% 100%, 0% 100%);
+  }
+/* index.css */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
