@@ -54,8 +54,12 @@ A powerful and intuitive Notes App built for productivity. Easily create, organi
 
   <img width="300" height="436" alt="image" src="https://github.com/user-attachments/assets/feb9a61c-2eb0-48b3-a5f3-8586fdd3aa80" />
 
-  <img src="screenshots/image-to-text.png" width="300" alt="Image to Text" />
-  <img src="screenshots/tagging.png" width="300" alt="Tagging" />
+  <img width="300" height="446" alt="image" src="https://github.com/user-attachments/assets/e787d68d-daad-4a6a-b411-33c33c8aab5e" />
+
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/61397d44-b2c0-4c26-8fcb-4c79da45499f" />
+  <img width="300" height="442" alt="image" src="https://github.com/user-attachments/assets/558a2db1-d902-4b69-bf6f-396ca44a62cf" />
+
+
 </p>
 
 ---
