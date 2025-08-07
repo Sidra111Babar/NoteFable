@@ -10,8 +10,7 @@ A powerful and intuitive Notes App built for productivity. Easily create, organi
 
 ### ✍️ Create & Manage Notes
 - Add rich text notes with title, content, and tags.
-- Edit your notes anytime.
-- Delete notes to move them to Trash.
+- Delete notes or move them to Trash.
 - Archive notes you want to keep but hide from the main view.
 
 ### 📂 Organize Notes
@@ -51,9 +50,10 @@ A powerful and intuitive Notes App built for productivity. Easily create, organi
 
 
 <p float="left">
-  <img src="<img width="938" height="437" alt="image" src="https://github.com/user-attachments/assets/4056ad41-39d1-453f-bb3a-5be9c3b65858" />
-" width="300" alt="Home Page" />
-  <img src="screenshots/voice-input.png" width="300" alt="Voice Input" />
+ <img width="300" height="437" alt="image" src="https://github.com/user-attachments/assets/e49ef190-d860-4c7c-91e7-a4fd64406d03" />
+
+  <img width="300" height="436" alt="image" src="https://github.com/user-attachments/assets/feb9a61c-2eb0-48b3-a5f3-8586fdd3aa80" />
+
   <img src="screenshots/image-to-text.png" width="300" alt="Image to Text" />
   <img src="screenshots/tagging.png" width="300" alt="Tagging" />
 </p>
