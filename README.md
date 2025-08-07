@@ -74,12 +74,14 @@ A powerful and intuitive Notes App built for productivity. Easily create, organi
 cd frontend
 npm install
 npm run dev
-
+```
 ### 🔧 Backend
 
 make venv(virtual environment),activate it
+```bash
 pip install requirements.txt
 cd BackendFolder
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
+```
