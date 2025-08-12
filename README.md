@@ -1,7 +1,4 @@
-# NoteGenius
-Smart, searchable, and AI-powered Notes App with voice-to-text, image-to-text, tagging, drag &amp; drop, archive, and more.
-
-
+# NoteFable
 A powerful and intuitive Notes App built for productivity. Easily create, organize, and manage your notes with advanced features like tagging, archiving, trash, drag & drop, voice-to-text, and image-to-text conversion.
 
 ---
